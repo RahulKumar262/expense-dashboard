@@ -80,7 +80,11 @@ expense-dashboard/
 └── README.md
 
 
+# 📁 Project Output
 
-
-
+expense-dashboard/
+ ├── screenshots/
+ │    ├── login.png
+ │    ├── dashboard.png
+ │    ├── chart.png
 
